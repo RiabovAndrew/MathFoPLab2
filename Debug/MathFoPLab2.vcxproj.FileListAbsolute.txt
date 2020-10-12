@@ -1,0 +1,2 @@
+E:\C++\MathFoPLab2\Debug\MathFoPLab2.exe
+E:\C++\MathFoPLab2\Debug\MathFoPLab2.pdb
