@@ -80,14 +80,4 @@ auto main(int argc, char* argv[]) -> int {
 	else {
 		 std::cout << "Выход за массив\n";
 	}
-
-	// До исправления
-	//if(sum > mult) {
-	//	if (b1) std::cout << max1 << "\n";
-	//	else std::cout << "Выход за массив\n";
-	//}
-	//else {
-	//	if(b2) std::cout << max2 << "\n";
-	//	else std::cout << "Выход за массив\n";
-	//}
 }
