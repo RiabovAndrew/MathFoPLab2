@@ -66,12 +66,28 @@ auto main(int argc, char* argv[]) -> int {
 		}
 		b2 = 1;
 	}
-	if(sum > mult) {
-		if (b1) std::cout << max1 << "\n";
-		else std::cout << "Выход за массив\n";
+	// После испрвления
+	if(b1) {
+		if(sum > mult) {
+			if (b1) std::cout << max1 << "\n";
+			else std::cout << "Выход за массив\n";
+		}
+		else {
+			if(b2) std::cout << max2 << "\n";
+			else std::cout << "Выход за массив\n";
+		}
 	}
 	else {
-		if(b2) std::cout << max2 << "\n";
-		else std::cout << "Выход за массив\n";
+		 std::cout << "Выход за массив\n";
 	}
+
+	// До исправления
+	//if(sum > mult) {
+	//	if (b1) std::cout << max1 << "\n";
+	//	else std::cout << "Выход за массив\n";
+	//}
+	//else {
+	//	if(b2) std::cout << max2 << "\n";
+	//	else std::cout << "Выход за массив\n";
+	//}
 }

@@ -1,0 +1,2 @@
+E:\Github\MathFoPLab2\x64\Debug\MathFoPLab2.exe
+E:\Github\MathFoPLab2\x64\Debug\MathFoPLab2.pdb
